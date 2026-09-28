@@ -1,4 +1,6 @@
-# Hospital OPD Queuing & Bed Availability Tracker
+# HOSPITAL-TRACKER
+
+## Hospital OPD Queuing & Bed Availability Tracker
 
 React/Vite client and Express/Mongoose API for hospital queue, appointment, and bed tracking.
 
